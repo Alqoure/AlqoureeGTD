@@ -3,7 +3,7 @@ local Players = game:GetService("Players")
 local plr = Players.LocalPlayer
 
 local whitelist = {
-    ["Alqoure45"] = true,
+    ["Alqoure456"] = true,
 
 }
 
